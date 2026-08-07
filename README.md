@@ -222,23 +222,47 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
-##                                          Contact me
-
 <div align="center">
 
-<a href="https://github.com/LEONELZANINELLI">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 📊 GitHub Analytics
 
-<a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/stats.svg" height="180" />
+
+<img src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/top-langs.svg" height="180" />
 
 </div>
 
 ---
 
 <div align="center">
+
+## 🐍 Contribution Animation
+
+<img src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌎 Contact Me
+
+<a href="https://github.com/LEONELZANINELLI">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/">
+  <img src="https://img.shields.io/badge/LinkedIn-0b3c8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⚙️ "Building reliable software, one commit at a time."
+
+<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=0b3c8a"/>
+
+</div>
 
 ### ⚙️ "Building reliable software, one commit at a time."
 
