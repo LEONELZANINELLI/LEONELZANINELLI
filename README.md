@@ -31,7 +31,7 @@ STATUS: BUILDING 🚀
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 ```java
 public class Leonel {
@@ -104,7 +104,7 @@ building internal applications, REST APIs and automations.
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <div align="center">
 
@@ -128,7 +128,7 @@ building internal applications, REST APIs and automations.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 | 🚀 Project | 💡 Description | ⚙️ Stack |
 | --- | --- | --- |
@@ -139,7 +139,7 @@ building internal applications, REST APIs and automations.
 
 ---
 
-<h2 align="center">🏢 Professional Projects</h2>
+<h2 align="center"> Professional Projects</h2>
 
 ### 📄 PGDAS-D Report Automation
 
@@ -170,7 +170,7 @@ Development of a responsive institutional platform with tax simulation, tax regi
 
 ---
 
-<h2 align="center">🧠 Current Mission</h2>
+<h2 align="center"> Current Mission</h2>
 
 ```bash
 > Loading current objectives...
@@ -202,7 +202,7 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
-<h2 align="center">🐍 Contribution Animation</h2>
+<h2 align="center"> </h2>
 
 <div align="center">
 
@@ -225,7 +225,7 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
-<h2 align="center">🌎 Contact Me</h2>
+<h2 align="center"> Contact Me</h2>
 
 <div align="center">
 
