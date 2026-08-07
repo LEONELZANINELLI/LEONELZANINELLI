@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:081b36,100:0b3c8a&text=LEONEL%20ZANINELLI&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=250&color=0:020617,50:081b36,100:0b3c8a&text=LEONEL%20ZANINELLI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=0B3C8A&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+%7C+BACKEND+FOCUS;JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;REST+APIs+%7C+DOCKER+%7C+AUTOMATION;REACT+%7C+TYPESCRIPT+%7C+PYTHON;SOFTWARE+ENGINEERING+STUDENT"/>
 
