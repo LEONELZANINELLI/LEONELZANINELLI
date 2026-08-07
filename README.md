@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0b1f4a,100:0b3c8a&text=LEONEL%20ZANINELLI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:161616,100:4a4a4a&text=LEONEL%20ZANINELLI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=0B3C8A&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+%7C+BACKEND+FOCUS;JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;REST+APIs+%7C+DOCKER+%7C+AUTOMATION;REACT+%7C+TYPESCRIPT+%7C+PYTHON;SOFTWARE+ENGINEERING+STUDENT"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+%7C+BACKEND+FOCUS;JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;REST+APIs+%7C+DOCKER+%7C+AUTOMATION;REACT+%7C+TYPESCRIPT+%7C+PYTHON;SOFTWARE+ENGINEERING+STUDENT"/>
 
 </div>
 
@@ -247,4 +247,4 @@ Scalable systems, clean architecture and cloud 🚀
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0b3c8a,50:0b1f4a,100:020617"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4a4a4a,50:161616,100:000000"/>
