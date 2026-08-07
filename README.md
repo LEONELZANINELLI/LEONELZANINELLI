@@ -31,50 +31,34 @@ STATUS: BUILDING 🚀
 
 ---
 
-<h2 align="center"> About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-```java
-public class Leonel {
+<p align="center">
+  I'm <b>Leonel Zaninelli</b>, a Full Stack Developer with a strong focus on
+  <b>Backend Development</b>.
+</p>
 
-    String name = "Leonel Zaninelli";
-    String role = "Full Stack Developer";
-    String focus = "Backend Development";
+<p align="center">
+  I build REST APIs, internal systems and automations using
+  <b>Java, Spring Boot, PostgreSQL and Docker</b>,
+  while also working across the stack with
+  <b>React, TypeScript and Python</b>.
+</p>
 
-    String location = "Paraná, Brazil 🇧🇷";
+<p align="center">
+  I enjoy turning real business problems into reliable and maintainable software.
+</p>
 
-    String[] backend = {
-        "Java",
-        "Spring Boot",
-        "Python",
-        "FastAPI",
-        "JPA / Hibernate",
-        "REST APIs"
-    };
+<p align="center">
+  🎓 Software Engineering Student &nbsp; • &nbsp;
+  📍 Paraná, Brazil 🇧🇷
+</p>
 
-    String[] frontend = {
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Tailwind CSS"
-    };
+<div align="center">
 
-    String[] database = {
-        "PostgreSQL",
-        "SQL"
-    };
+`Backend Development` · `REST APIs` · `Automation` · `Full Stack`
 
-    String[] devOps = {
-        "Docker",
-        "Git",
-        "GitHub",
-        "Vercel"
-    };
-
-    String mission =
-        "Turning real business problems into reliable software ⚙️";
-}
-```
+</div>
 
 ---
 
@@ -95,12 +79,10 @@ public class Leonel {
 
 </div>
 
-<div align="center">
-
-Currently working with **Java/Spring Boot, React, PostgreSQL and Docker**,  
+<p align="center">
+Currently working with <b>Java/Spring Boot, React, PostgreSQL and Docker</b>,<br>
 building internal applications, REST APIs and automations.
-
-</div>
+</p>
 
 ---
 
@@ -128,7 +110,7 @@ building internal applications, REST APIs and automations.
 
 ---
 
-<h2 align="center"> Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 | 🚀 Project | 💡 Description | ⚙️ Stack |
 | --- | --- | --- |
@@ -190,7 +172,7 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <div align="center">
 
@@ -202,7 +184,7 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
-<h2 align="center"> </h2>
+<h2 align="center"></h2>
 
 <div align="center">
 
@@ -230,18 +212,18 @@ Scalable systems, clean architecture and cloud 🚀
 <div align="center">
 
 <a href="https://github.com/LEONELZANINELLI">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B3C8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <h3>⚙️ "Building reliable software, one commit at a time."</h3>
 
-<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=0b3c8a&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 
 </div>
 
