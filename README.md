@@ -180,31 +180,26 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=LEONELZANINELLI&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=LEONELZANINELLI&show_icons=true&theme=transparent&hide_border=true&title_color=0b3c8a&icon_color=0b3c8a&text_color=c9d1d9"
+/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEONELZANINELLI&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LEONELZANINELLI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEONELZANINELLI&layout=compact&theme=transparent&hide_border=true&title_color=0b3c8a&text_color=c9d1d9"
+/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Animation
 
 <div align="center">
 
@@ -227,7 +222,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEONELZANINE
 
 ---
 
-## 🌎 Connect With Me
+##                                          Contact me
 
 <div align="center">
 
