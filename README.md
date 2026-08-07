@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0f172a,100:0ea5e9&text=LEONEL%20ZANINELLI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0b1f4a,100:0b3c8a&text=LEONEL%20ZANINELLI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=BACKEND-FOCUSED+FULL+STACK+DEVELOPER;JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;REACT+%7C+TYPESCRIPT+%7C+PYTHON;REST+APIS+%7C+DOCKER+%7C+AUTOMATION;SOFTWARE+ENGINEERING+STUDENT"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=0B3C8A&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+%7C+BACKEND+FOCUS;JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;REST+APIs+%7C+DOCKER+%7C+AUTOMATION;REACT+%7C+TYPESCRIPT+%7C+PYTHON;SOFTWARE+ENGINEERING+STUDENT"/>
 
 </div>
 
 ---
 
-## ⚙️ LEONEL DEV CORE
+<h2 align="center">⚙️ LEONEL DEV CORE</h2>
 
 ```bash
 ╭────────────────────────────────╮
@@ -31,7 +31,7 @@ STATUS: BUILDING 🚀
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 ```java
 public class Leonel {
@@ -78,51 +78,60 @@ public class Leonel {
 
 ---
 
-## 💼 Professional Snapshot
-
-| | |
-|---|---|
-| 💻 **Current Role** | Full Stack Developer |
-| ⚙️ **Main Focus** | Backend Development |
-| ☕ **Core Stack** | Java · Spring Boot · PostgreSQL |
-| 🌐 **Full Stack** | React · TypeScript · Next.js |
-| 🐍 **Also Building With** | Python · FastAPI |
-| 🐳 **DevOps** | Docker · Git · GitHub · Vercel |
-| 🎓 **Education** | Software Engineering |
-| 📍 **Location** | Paraná, Brazil 🇧🇷 |
-
-Currently working with **Java/Spring Boot, React, PostgreSQL and Docker**, building internal applications, REST APIs and automations.
-
----
-
-## ⚡ Tech Stack
+<h2 align="center">💼 Professional Snapshot</h2>
 
 <div align="center">
 
-### Backend
+|                           |                                 |
+| ------------------------- | ------------------------------- |
+| 💻 **Current Role**       | Full Stack Developer            |
+| ⚙️ **Main Focus**         | Backend Development             |
+| ☕ **Core Stack**         | Java · Spring Boot · PostgreSQL |
+| 🌐 **Full Stack**         | React · TypeScript · Next.js    |
+| 🐍 **Also Building With** | Python · FastAPI                |
+| 🐳 **DevOps**             | Docker · Git · GitHub · Vercel  |
+| 🎓 **Education**          | Software Engineering            |
+| 📍 **Location**           | Paraná, Brazil 🇧🇷              |
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres&perline=8"/>
+</div>
 
-<br>
+<div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css&perline=8"/>
-
-<br>
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode&perline=8"/>
+Currently working with **Java/Spring Boot, React, PostgreSQL and Docker**,  
+building internal applications, REST APIs and automations.
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">⚡ Tech Stack</h2>
+
+<div align="center">
+
+<h3>Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres&theme=dark"/>
+
+<br><br>
+
+<h3>Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css&theme=dark"/>
+
+<br><br>
+
+<h3>DevOps & Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode&theme=dark"/>
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 | 🚀 Project | 💡 Description | ⚙️ Stack |
-|---|---|---|
+| --- | --- | --- |
 | 📚 [Study Manager API](https://github.com/LEONELZANINELLI/study-manager-api) | API for organizing subjects, tasks and study progress | Java |
 | 🏦 [Projeto BankJava](https://github.com/LEONELZANINELLI/Projeto-BankJava) | Banking system with accounts, transactions and investments | Java · OOP · Collections · Streams |
 | 🌦️ [Clima Fácil](https://github.com/LEONELZANINELLI/clima-facil-streamlit) | Weather application consuming IBGE and Open-Meteo APIs | Python · Streamlit |
@@ -130,7 +139,7 @@ Currently working with **Java/Spring Boot, React, PostgreSQL and Docker**, build
 
 ---
 
-## 🏢 Professional Projects
+<h2 align="center">🏢 Professional Projects</h2>
 
 ### 📄 PGDAS-D Report Automation
 
@@ -140,19 +149,20 @@ Automated workflow for extracting data from PDFs and generating reports.
 
 > PDF processing · report generation · automation · deployment
 
+<br>
+
 ### 🧮 Tax Simulator & Business Platform
 
-Development of a responsive institutional platform with tax simulation,
-tax regime comparison and an internal commercial dashboard.
+Development of a responsive institutional platform with tax simulation, tax regime comparison and an internal commercial dashboard.
 
 `React` `JavaScript` `APIs` `Full Stack`
 
 ---
 
-## 🏆 Highlights
+<h2 align="center">🏆 Highlights</h2>
 
 | 🏅 Recognition | 🚀 Project |
-|---|---|
+| --- | --- |
 | 🥈 **2nd Place — Ideathon CONECT / Sescap** | FiscAI — Tax Intelligence Platform |
 | 🥈 **2nd Place — SmartCities Londrina** | SmartFlow Londrina — AI-powered people flow monitoring |
 | 🥉 **3rd Place — GreenTech Hackathon** | Energy Tracker — IoT energy monitoring solution |
@@ -160,7 +170,7 @@ tax regime comparison and an internal commercial dashboard.
 
 ---
 
-## 🧠 Current Mission
+<h2 align="center">🧠 Current Mission</h2>
 
 ```bash
 > Loading current objectives...
@@ -180,26 +190,19 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
----
-
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=LEONELZANINELLI&show_icons=true&theme=transparent&hide_border=true&title_color=0b3c8a&icon_color=0b3c8a&text_color=c9d1d9"
-/>
+<img src="./profile/stats.svg" height="180" alt="Leonel GitHub Stats"/>
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEONELZANINELLI&layout=compact&theme=transparent&hide_border=true&title_color=0b3c8a&text_color=c9d1d9"
-/>
+<img src="./profile/top-langs.svg" height="180" alt="Leonel Top Languages"/>
 
 </div>
 
 ---
 
+<h2 align="center">🐍 Contribution Animation</h2>
 
 <div align="center">
 
@@ -213,8 +216,8 @@ Scalable systems, clean architecture and cloud 🚀
     srcset="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
@@ -222,52 +225,26 @@ Scalable systems, clean architecture and cloud 🚀
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/stats.svg" height="180" />
-
-<img src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/top-langs.svg" height="180" />
-
-</div>
-
----
+<h2 align="center">🌎 Contact Me</h2>
 
 <div align="center">
-
-## 🐍 Contribution Animation
-
-<img src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌎 Contact Me
 
 <a href="https://github.com/LEONELZANINELLI">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/">
-  <img src="https://img.shields.io/badge/LinkedIn-0b3c8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0B3C8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-### ⚙️ "Building reliable software, one commit at a time."
+<h3>⚙️ "Building reliable software, one commit at a time."</h3>
 
-<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=0b3c8a"/>
-
-</div>
-
-### ⚙️ "Building reliable software, one commit at a time."
-
-<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=0b3c8a&label=PROFILE+VIEWS"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,50:0f172a,100:0ea5e9"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0b3c8a,50:0b1f4a,100:020617"/>
