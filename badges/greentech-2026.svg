@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="320" viewBox="0 0 680 320" role="img" aria-label="3RD PLACE: GREENTECH 2026 — Energy Tracker">
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111824"/><stop offset=".55" stop-color="#090e16"/><stop offset="1" stop-color="#18212c"/></linearGradient>
+  <linearGradient id="metal" x1=".1" y1=".1" x2=".85" y2="1"><stop stop-color="#ffd4a4"/><stop offset=".38" stop-color="#f2b38d"/><stop offset=".75" stop-color="#94512c"/><stop offset="1" stop-color="#f2b38d"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2b38d" stop-opacity=".96"/><stop offset=".55" stop-color="#94512c" stop-opacity=".35"/><stop offset="1" stop-color="#f2b38d" stop-opacity=".75"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#d38c63" stop-opacity=".17"/><stop offset="1" stop-color="#d38c63" stop-opacity="0"/></radialGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity=".55"/></filter>
+  <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#f1f5f9" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="2" y="2" width="676" height="316" rx="22" fill="url(#background)" stroke="url(#edge)" stroke-width="2"/>
+<rect x="4" y="4" width="672" height="312" rx="20" fill="url(#mesh)"/>
+<path d="M5 70 L73 3 H103 L5 100Z" fill="url(#metal)" opacity=".88"/><path d="M575 317 L676 216 V253 L612 317Z" fill="url(#metal)" opacity=".48"/>
+<circle cx="161" cy="158" r="153" fill="url(#glow)"/>
+<path d="M111 195 L95 284 L144 263 L164 299 L179 210Z" fill="url(#metal)" stroke="#94512c" stroke-width="2"/>
+<path d="M175 206 L209 283 L226 251 L266 261 L220 181Z" fill="url(#metal)" stroke="#94512c" stroke-width="2"/>
+<circle cx="163" cy="151" r="99" fill="#090d14" stroke="#94512c" stroke-width="5" filter="url(#shadow)"/>
+<circle cx="163" cy="151" r="90" fill="url(#metal)" stroke="#ffd4a4" stroke-width="4"/>
+<circle cx="163" cy="151" r="74" fill="none" stroke="#0b1019" stroke-opacity=".26" stroke-width="4"/>
+<g fill="none" stroke="#ffd4a4" stroke-width="3" stroke-linecap="round" opacity=".85">
+<path d="M99 192 C77 160 84 126 105 106"/><path d="M227 192 C248 161 241 127 221 106"/>
+<path d="M90 175l-11 -9 M85 154l-12 -6 M87 132l-10 -2 M98 112L90 98 M238 175l11 -9 M243 154l12 -6 M241 132l10 -2 M230 112l8 -14"/>
+</g>
+<text x="163" y="184" font-family="Arial,Helvetica,sans-serif" font-size="106" font-weight="900" text-anchor="middle" fill="#0d111b" opacity=".5">3</text>
+<text x="161" y="179" font-family="Arial,Helvetica,sans-serif" font-size="104" font-weight="900" text-anchor="middle" fill="#fff7df" stroke="#94512c" stroke-width="1.5">3</text>
+<line x1="289" y1="62" x2="289" y2="256" stroke="#d38c63" stroke-opacity=".6" stroke-width="2"/>
+<text x="318" y="69" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.3" font-weight="700" fill="#d38c63">HACKATHON</text>
+<text x="316" y="122" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="900" letter-spacing=".5" fill="#f8fafc">GREENTECH</text>
+<text x="318" y="164" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800" fill="#f2b38d">2026</text>
+<line x1="317" y1="180" x2="646" y2="180" stroke="#f2b38d" stroke-opacity=".32"/>
+<text x="317" y="223" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="650" fill="#f0f3f8">Energy Tracker</text>
+<rect x="315" y="244" width="216" height="42" rx="10" fill="#10151d" stroke="#d38c63" stroke-width="2"/>
+<text x="423" y="272" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" letter-spacing="1.2" text-anchor="middle" fill="#f2b38d">3RD PLACE</text>
+</svg>

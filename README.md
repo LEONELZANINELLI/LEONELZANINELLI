@@ -1,128 +1,70 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:161616,100:4a4a4a&text=LEONEL%20ZANINELLI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:161616,100:4a4a4a&text=LEONEL%20ZANINELLI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=37" alt="Leonel Zaninelli"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=BACKEND+SOFTWARE+DEVELOPER;JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;REST+APIs+%7C+DOCKER+%7C+AUTOMATION;FULL+STACK+EXPERIENCE+WITH+REACT;SOFTWARE+ENGINEERING+STUDENT"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2700&pause=850&color=FFFFFF&center=true&vCenter=true&width=900&lines=BACKEND-FOCUSED+SOFTWARE+DEVELOPER;JAVA+%7C+SPRING+BOOT+%7C+POSTGRESQL;REST+APIs+%7C+AUTOMATION+%7C+DOCKER;FULL+STACK+EXPERIENCE+WITH+REACT;SOFTWARE+ENGINEERING+STUDENT" alt="Backend Developer · Java · Spring Boot"/>
+
+**Backend-first mindset · Full Stack delivery · Real-world automation**
+
+<a href="https://github.com/LEONELZANINELLI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Based%20in-Paran%C3%A1%2C%20Brazil-3ba87c?style=flat-square" alt="Paraná, Brazil"/>
+<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=flat-square&color=333333&label=Profile+views" alt="Profile views"/>
 
 </div>
-
----
-
-<h2 align="center">⚙️ LEONEL DEV CORE</h2>
-
-```bash
-╭────────────────────────────────╮
-│      LEONEL SYSTEM v2.0        │
-╰────────────────────────────────╯
-
-Initializing developer environment...
-
-████████████████████ 100%
-
-✔ Backend focus activated
-✔ Java / Spring Boot loaded
-✔ REST API layer online
-✔ PostgreSQL connected
-✔ Docker environment ready
-✔ Full Stack experience available
-
-STATUS: BUILDING BACKEND SYSTEMS 🚀
-```
 
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-  I'm <b>Leonel Zaninelli</b>, a Software Developer focused on
-  <b>Backend Java Development</b>.
-</p>
+I'm **Leonel Zaninelli**, a Brazilian software developer working professionally as a **Full Stack Developer at Contabiliza**, with a strong focus on **backend development using Java and Spring Boot**. I'm also studying **Software Engineering at UniFil**.
 
-<p align="center">
-  I currently work professionally as a <b>Full Stack Developer</b>,
-  with most of my focus on backend development using
-  <b>Java, Spring Boot, REST APIs, JPA/Hibernate, PostgreSQL and Docker</b>.
-</p>
+I enjoy designing REST APIs, integrating services, working with relational databases, and automating workflows that would otherwise require repetitive manual work. When a project needs an interface, I build with **React, TypeScript, Vite and Tailwind CSS**.
 
-<p align="center">
-  When needed, I also work on the frontend with
-  <b>React, Vite, HTML, CSS and JavaScript</b>,
-  giving me practical experience across the full application lifecycle.
-</p>
-
-<p align="center">
-  I enjoy turning real business problems into reliable, maintainable
-  and automated software solutions.
-</p>
-
-<p align="center">
-  🎓 Software Engineering Student &nbsp; • &nbsp;
-  📍 Paraná, Brazil 🇧🇷
-</p>
+My current growth areas are **software architecture, API performance, testing, scalability and clean code**. I like practical solutions: clear contracts, maintainable code, and technology choices that match the problem.
 
 <div align="center">
 
-`Backend Java` · `Spring Boot` · `REST APIs` · `PostgreSQL` · `Docker` · `Full Stack Experience`
+`Java` · `Spring Boot` · `REST APIs` · `PostgreSQL` · `Docker` · `TypeScript` · `React`
 
 </div>
 
 ---
 
-<h2 align="center">💼 Professional Snapshot</h2>
+<h2 align="center">⚙️ Developer Profile</h2>
 
-<div align="center">
-
-| | |
+| Area | Snapshot |
 | --- | --- |
-| 💻 **Current Role** | Full Stack Developer |
-| 🎯 **Career Focus** | Backend Java Development |
-| ☕ **Core Backend** | Java · Spring Boot · REST APIs · JPA/Hibernate |
-| 🗄️ **Database** | PostgreSQL · SQL · Relational Modeling |
-| 🌐 **Full Stack Experience** | React · Vite · HTML · CSS · JavaScript |
-| 🐍 **Automation & Scripting** | Python · Selenium · Playwright |
-| 🐳 **DevOps & Tools** | Docker · Git · GitHub |
-| 💡 **Main IDE** | IntelliJ IDEA |
-| 🎓 **Education** | Software Engineering |
+| 💼 **Current role** | Full Stack Developer — Contabiliza (since May 2026) |
+| 🎯 **Main direction** | Backend engineering with Java and Spring Boot |
+| ☕ **Backend** | Java 21 · Spring Boot · REST · JPA/Hibernate |
+| 🗄️ **Data** | PostgreSQL · SQL · relational modeling |
+| 🌐 **Frontend** | React · TypeScript · Vite · Tailwind CSS |
+| 🤖 **Automation** | Python · FastAPI · scripting · external API integration |
+| 🐳 **Engineering tools** | Docker · Git/GitHub · IntelliJ IDEA · VS Code |
+| 🎓 **Education** | Software Engineering — UniFil (started 2025) |
 | 📍 **Location** | Paraná, Brazil 🇧🇷 |
 
-</div>
-
-<p align="center">
-  Currently building internal systems, REST APIs and automations,<br>
-  with <b>Java/Spring Boot</b> as my main backend stack and
-  <b>React</b> when frontend development is required.
-</p>
-
 ---
 
-<h2 align="center">💼 Professional Experience</h2>
+<h2 align="center">💼 Experience & Impact</h2>
 
 ### 🏢 Contabiliza — Full Stack Developer
 
-My current professional role is Full Stack, with a strong emphasis on backend engineering and process automation.
+Building and evolving **internal business systems, integrations and workflow automation** in the accounting domain. Selected contributions:
 
-- Backend development with `Java`, `Spring Boot`, `JPA/Hibernate` and `REST APIs`
-- PostgreSQL integration, SQL and relational data modeling
-- Development of internal systems and process automation
-- Development of APIs for NFS-e consultation and management
-- Docker-based application deployment and environment standardization
-- Frontend development with `React`, `Vite` and `Tailwind CSS` when required
-- Version control and collaboration with `Git` and `GitHub`
-- Support for internal systems and local infrastructure
+- **NFS-e management:** backend APIs and interfaces for handling electronic service invoices and related integrations.
+- **Desktop tooling:** an internal tools hub using **Tauri 2, React and TypeScript**, with persistent preferences and a unified user experience.
+- **Fiscal process automation:** batch routines and integrations with external services to reduce repetitive manual consultations.
+- **Reporting and dashboards:** business metrics, document processing, report generation and data visualization.
+- **Web applications:** institutional interfaces and tax-simulation experiences integrated with business workflows.
+- **Engineering practice:** Git-based versioning, API design, SQL, debugging, Docker environments and end-to-end delivery.
 
-> Full Stack experience. Backend direction.
+> Professional projects are summarized at a high level; private repositories and internal implementation details remain private.
 
-<br>
+### 🎓 UniFil — NPI Programming Monitor
 
-### 🎓 UniFil — NPI Monitor
-
-Worked as a programming and web development monitor in educational projects.
-
-- Supported more than 50 students
-- Practical programming logic activities
-- Web development with HTML, CSS and JavaScript
-- Support for students from high school and the local community
-- Participation in educational technology initiatives
+Previously supported programming and web-development activities for students and the local community, including programming fundamentals and introductory web development.
 
 ---
 
@@ -130,138 +72,118 @@ Worked as a programming and web development monitor in educational projects.
 
 <div align="center">
 
-<h3>☕ Backend — Main Focus</h3>
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,python,fastapi&theme=dark" alt="Java, Spring Boot, PostgreSQL, Python and FastAPI"/>
 
-<br><br>
+`Java` · `Spring Boot` · `REST` · `JPA/Hibernate` · `PostgreSQL` · `Python` · `FastAPI`
 
-`Java` · `Spring Boot` · `REST APIs` · `JPA/Hibernate` · `PostgreSQL` · `SQL`
+<br/>
 
-<br><br>
+**Frontend & Desktop**
 
-<h3>🌐 Full Stack Experience</h3>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="React, TypeScript, JavaScript, Vite, Tailwind, HTML and CSS"/>
 
-<img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,html,css&theme=dark"/>
+`React` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS` · `Tauri`
 
-<br><br>
+<br/>
 
-`React` · `JavaScript` · `Vite` · `Tailwind CSS` · `HTML` · `CSS`
+**Tools & Workflow**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode&theme=dark" alt="Docker, Git, GitHub, IntelliJ IDEA and VS Code"/>
 
-<h3>🐳 DevOps & Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,idea&theme=dark"/>
-
-<br><br>
-
-`Docker` · `Git` · `GitHub` · `IntelliJ IDEA`
+`Docker` · `Git/GitHub` · `IntelliJ IDEA` · `VS Code` · `API Testing`
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Selected Public Projects</h2>
 
-| 🚀 Project | 💡 Description | ⚙️ Stack |
+| Project | What it demonstrates | Technologies |
 | --- | --- | --- |
-| 📚 [Study Manager API](https://github.com/LEONELZANINELLI/study-manager-api) | Backend project for organizing subjects, tasks and study progress | Java |
-| 🏦 [Projeto BankJava](https://github.com/LEONELZANINELLI/Projeto-BankJava) | Banking system with accounts, transfers, transactions and investments | Java · OOP · Collections · Streams |
-| 🤖 [FiscAI / Ideathon Sescap](https://github.com/LEONELZANINELLI/Ideathon-Sescap) | Tax intelligence prototype focused on the Brazilian tax environment | Web · AI |
-| 🌦️ [Clima Fácil](https://github.com/LEONELZANINELLI/clima-facil-streamlit) | Weather application consuming IBGE and Open-Meteo APIs | Python · Streamlit |
+| ⚡ [API Performance Lab](https://github.com/LEONELZANINELLI/api-performance) | Work-in-progress playground for benchmarking API design and performance | Java · Spring Boot · PostgreSQL · Docker |
+| 📚 [Study Manager API](https://github.com/LEONELZANINELLI/study-manager-api) | Backend application for study organization | Java |
+| 🏦 [BankJava](https://github.com/LEONELZANINELLI/Projeto-BankJava) | Banking domain logic and object-oriented programming | Java · OOP |
+| 🤖 [FiscAI — Ideathon](https://github.com/LEONELZANINELLI/Ideathon-Sescap) | Tax intelligence prototype developed in a hackathon | Web · AI |
+| 📖 [Library MVC](https://github.com/LEONELZANINELLI/Desenvolvimento-Web-MVC-b4) | Server-rendered library management exercise | Java · Spring MVC · Thymeleaf |
+| 🍳 [Pitadi](https://github.com/LEONELZANINELLI/pitadi-flutter) | Recipe application developed for mobile coursework | Flutter · Dart |
+| 🌤️ [Clima Fácil](https://github.com/LEONELZANINELLI/clima-facil-streamlit) | Weather application consuming public APIs | Python · Streamlit |
+
+<sub>Some projects are academic, prototypes, or actively in development; repositories document their current scope.</sub>
 
 ---
 
-<h2 align="center">🏗️ Professional Projects</h2>
+<h2 align="center">🏗️ Engineering Work</h2>
 
-### 📄 NFS-e Management System
-
-Development of internal systems and backend APIs for NFS-e consultation and management.
-
-`Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `REST APIs` `Docker`
-
-Main activities:
-
-- REST API development
-- PostgreSQL database integration
-- NFS-e consultation and management
-- Integration with external fiscal services
-- Internal process automation
-- Docker deployment
-- Application maintenance and evolution
-
-> Backend development · REST APIs · Database integration · Automation · Deployment
-
-<br>
-
-### 📊 PGDAS-D Report Automation
-
-Automated workflow for processing fiscal documents, extracting information and generating reports.
-
-`Python` `FastAPI` `Docker` `Automation`
-
-Main activities:
-
-- PDF processing
-- Data extraction
-- Report generation
-- Workflow automation
-- Application deployment
-
-> Automation · Document processing · Reports · Internal productivity
-
-<br>
-
-### 🌐 Full Stack Business Solutions
-
-Development of internal and institutional web interfaces integrated with backend services and business workflows.
-
-`React` `Vite` `JavaScript` `APIs`
-
-Main activities:
-
-- Frontend development
-- Backend API integration
-- Internal dashboards
-- Business process interfaces
-- Responsive web applications
-
-> Full Stack experience supporting backend-driven applications
-
----
-
-<h2 align="center">🏆 Highlights</h2>
-
-| 🏅 Recognition | 🚀 Project |
+| Focus | Selected work |
 | --- | --- |
-| 🥇 **1st Place — Solveathon CONECT / SESCAP-LDR (2026)** | CrediOn — Tax credit predictability, supplier analysis and cash-flow support |
-| 🥈 **2nd Place — Ideathon CONECT / Sescap (2025)** | FiscAI — Tax Intelligence Platform |
-| 🥈 **2nd Place — SmartCities Londrina (2025)** | SmartFlow Londrina — AI-powered people flow monitoring |
-| 🥉 **3rd Place — GreenTech Hackathon (2026)** | Energy Tracker — IoT energy monitoring solution |
+| **Backend & integrations** | Spring Boot APIs, NFS-e workflows, relational data and external services |
+| **Business automation** | Fiscal consultations, document-processing routines and batch workflows |
+| **Desktop & frontend** | Tauri + React + TypeScript tools hub; forms, dashboards and web interfaces |
+| **Reports & analytics** | Operational dashboards, historical comparisons and report generation |
+| **Performance & architecture** | Personal API performance lab; ongoing studies in scalability, testing and architectural patterns |
 
 ---
 
-<h2 align="center">🎯 Current Mission</h2>
+<h2 align="center">🏆 Hackathon Awards</h2>
 
-```bash
-> Loading current objectives...
+<div align="center">
 
-[██████████] Java + Spring Boot
-[█████████░] REST APIs + PostgreSQL
-[████████░░] Docker + Backend Engineering
-[███████░░░] Software Architecture
-[████░░░░░░] Full Stack / React when needed
+**Four podium finishes in innovation and technology competitions**
 
-FOCUS:
-Backend Engineering with Java ⚙️
+<table>
+<tr>
+<td width="50%" align="center"><img src="./badges/solveathon-2026.svg" alt="1st place Solveathon CONECT SESCAP-LDR 2026 — CrediOn" width="100%"/></td>
+<td width="50%" align="center"><img src="./badges/ideathon-2025.svg" alt="2nd place Ideathon CONECT 2025 — FiscAI" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="./badges/smartcities-2025.svg" alt="2nd place SmartCities Londrina 2025 — SmartFlow Londrina" width="100%"/></td>
+<td width="50%" align="center"><img src="./badges/greentech-2026.svg" alt="3rd place GreenTech Hackathon 2026 — Energy Tracker" width="100%"/></td>
+</tr>
+</table>
 
-LEARNING:
-Performance · Architecture · Clean Code · Scalability
+</div>
 
-NEXT LEVEL:
-Scalable systems, clean architecture and cloud 🚀
+| Result | Challenge & solution |
+| --- | --- |
+| 🥇 **1st — Solveathon CONECT / SESCAP-LDR (2026)** | **CrediOn:** tax-credit predictability, supplier analysis and cash-flow support |
+| 🥈 **2nd — Ideathon CONECT / Sescap (2025)** | **FiscAI:** AI-enabled tax intelligence platform |
+| 🥈 **2nd — SmartCities Londrina (2025)** | **SmartFlow Londrina:** intelligent monitoring of people flow |
+| 🥉 **3rd — GreenTech Hackathon (2026)** | **Energy Tracker:** IoT energy monitoring concept |
+
+<sub>Medal artwork is custom-made for this profile and represents competition results; it is not an official event-issued digital credential.</sub>
+
+---
+
+<h2 align="center">🦖 Holopin Badge Collection</h2>
+
+<div align="center">
+
+<a href="https://www.holopin.io/">
+  <img src="./badges/holopin-early-bird.svg" width="500" alt="Early Bird Pegasaurus badge — custom illustration of a Holopin achievement"/>
+</a>
+
+**Early Bird Pegasaurus** — claimed on **Holopin**.
+
+<sub>The illustration above is custom artwork, not the official Holopin credential image. The verified badge remains on Holopin.</sub>
+
+</div>
+
+<!-- Add the live Holopin board embed from your own Holopin profile here after confirming your Holopin username; do not publish private claim/coupon URLs. -->
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+```text
+BACKEND ENGINEERING     Java · Spring Boot · REST APIs
+DATA & INTEGRATIONS     PostgreSQL · SQL · External APIs
+DELIVERY & AUTOMATION   Docker · Internal Tools · Workflows
+LEARNING NEXT           Testing · Performance · Architecture
 ```
+
+My goal is to grow as a **backend engineer**, building reliable, observable and maintainable services while staying comfortable delivering complete solutions when needed.
 
 ---
 
@@ -270,8 +192,7 @@ Scalable systems, clean architecture and cloud 🚀
 <div align="center">
 
 <img src="./profile/stats.svg" height="180" alt="Leonel GitHub Stats"/>
-
-<img src="./profile/top-langs.svg" height="180" alt="Leonel Top Languages"/>
+<img src="./profile/top-langs.svg" height="180" alt="Leonel's top languages"/>
 
 </div>
 
@@ -280,44 +201,26 @@ Scalable systems, clean architecture and cloud 🚀
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake-dark.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution activity snake" src="https://raw.githubusercontent.com/LEONELZANINELLI/LEONELZANINELLI/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">📫 Connect</h2>
 
 <div align="center">
 
-<a href="https://github.com/LEONELZANINELLI">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/LEONELZANINELLI"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/">
-  <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<br><br>
-
-<h3>⚙️ "Building reliable software, one commit at a time."</h3>
-
-<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
+**Building reliable software, one commit at a time.**
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4a4a4a,50:161616,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4a4a4a,50:161616,100:000000" alt="Footer"/>

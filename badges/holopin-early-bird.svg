@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="230" viewBox="0 0 680 230" role="img" aria-label="Holopin: Early Bird Pegasaurus, earned badge illustration">
+<defs><linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f1722"/><stop offset="1" stop-color="#111c22"/></linearGradient><linearGradient id="jade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b7ffc2"/><stop offset="1" stop-color="#50d69c"/></linearGradient></defs>
+<rect x="2" y="2" width="676" height="226" rx="22" fill="url(#night)" stroke="#4ccaa1" stroke-width="2"/>
+<circle cx="135" cy="114" r="86" fill="#14342d" stroke="#49ba99" stroke-width="2"/>
+<path d="M150 92 Q185 37 220 66 Q197 88 185 132 Q166 116 150 117Z" fill="#81cfff" stroke="#d4f1ff" stroke-width="3"/>
+<path d="M78 155 Q60 130 81 105 L98 84 L93 68 Q119 38 152 55 L175 72 L165 97 L148 99 Q176 131 156 160 L121 178 L95 169Z" fill="url(#jade)" stroke="#071d17" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="130" cy="77" r="6" fill="#09281f"/><path d="M144 100 L166 103 L156 112 L145 107" fill="#09281f"/><path d="M109 170 L97 193 M145 162 L156 189" stroke="#72f0ac" stroke-width="13" stroke-linecap="round"/>
+<text x="266" y="74" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="2" fill="#68e5b1">HOLOPIN COLLECTION</text>
+<text x="264" y="119" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="800" fill="#fff">Early Bird</text>
+<text x="264" y="156" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="800" fill="#fff">Pegasaurus</text>
+<text x="265" y="190" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#9fd8cb">Claimed digital badge · Custom illustration</text>
+</svg>
