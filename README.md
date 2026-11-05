@@ -9,7 +9,6 @@
 <a href="https://github.com/LEONELZANINELLI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/leonel-zaninelli-de-souza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Paran%C3%A1%2C%20Brazil-3ba87c?style=flat-square" alt="Paraná, Brazil"/>
-<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=flat-square&color=333333&label=Profile+views" alt="Profile views"/>
 
 </div>
 
@@ -220,6 +219,10 @@ My goal is to grow as a **backend engineer**, building reliable, observable and 
 <br/><br/>
 
 **Building reliable software, one commit at a time.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=LEONELZANINELLI&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="GitHub profile view counter"/>
 
 </div>
 
